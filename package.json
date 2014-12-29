@@ -1,0 +1,15 @@
+{
+  "name": "angular-demo",
+  "version": "1.0.0",
+  "description": "Demo for Gobaind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/geoyws/angular-demo.git"
+  },
+  "author": "geoyws",
+  "license": "MIT"
+}
